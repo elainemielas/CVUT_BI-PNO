@@ -1,0 +1,11 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "CLK" LOC = B8;
+NET "JCHYBA" LOC = M5;
+NET "KEY_F" LOC = K3;
+NET "KEY_L" LOC = P11;
+NET "KEY_PRESS" LOC = G12;
+NET "KEY_U" LOC = L3;
+NET "RESET" LOC = A7;
+NET "SHODA" LOC = M11;
